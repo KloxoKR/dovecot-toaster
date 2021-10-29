@@ -13,7 +13,7 @@ Name:      %{real_name}-toaster
 Summary:   Secure imap and pop3 server
 Epoch:     1
 Version:   2.2.24
-Release:   1.kng%{?dist}
+Release:   1.kkr%{?dist}
 License:   MIT and LGPLv2
 #          dovecot itself is MIT,
 #          pigeonhole is LGPLv2,
